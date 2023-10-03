@@ -1,0 +1,7 @@
+C:\Users\luisf\Videos\Area de un Triangulo\Area de un Triangulo\bin\Debug\Area de un Triangulo.exe.config
+C:\Users\luisf\Videos\Area de un Triangulo\Area de un Triangulo\bin\Debug\Area de un Triangulo.exe
+C:\Users\luisf\Videos\Area de un Triangulo\Area de un Triangulo\bin\Debug\Area de un Triangulo.pdb
+C:\Users\luisf\Videos\Area de un Triangulo\Area de un Triangulo\obj\Debug\Area de un Triangulo.csproj.AssemblyReference.cache
+C:\Users\luisf\Videos\Area de un Triangulo\Area de un Triangulo\obj\Debug\Area de un Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Videos\Area de un Triangulo\Area de un Triangulo\obj\Debug\Area de un Triangulo.exe
+C:\Users\luisf\Videos\Area de un Triangulo\Area de un Triangulo\obj\Debug\Area de un Triangulo.pdb
